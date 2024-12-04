@@ -21,7 +21,7 @@ Below are examples of permitted and prohibited uses of assets in compatibility p
 	- Solution: The patch edits and merges the scripts to ensure compatibility.
 	- Why Permitted: Script edits are minimal and focused on enabling the two mods to work together.
 
-## Prohibited Uses (Beyond Compatibility)
+## Prohibited Uses
 
 1. Standalone NPCs
 	- Scenario: Mod A adds a new character model, and a patch creator uses this model to create unrelated NPCs in a patch.
