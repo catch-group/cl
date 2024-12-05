@@ -45,7 +45,7 @@ To license your mod under the Catch License, simply do one of the following or b
 - Include the Catch License file in your mod's files or repository.
 - Add a note in your mod's description (on platforms like Nexus Mods or GitHub) that it follows the Catch License. Example:
 
-	> This mod is licensed under the [Catch License 1.0.0 (CL-1.0.0)](https://github.com/catch-group/cl). Compatibility patches must comply with its terms.
+	> This mod is licensed under the [Catch License 1.0.0 (CL-1.0.0)](https://github.com/catch-group/cl/blob/1.0.0/cl.md). Compatibility patches must comply with its terms.
 
 ## For Patch Creators: What Does the Catch License Mean?
 
@@ -79,7 +79,7 @@ To license your patch under the Catch License, simply do one of the following or
 1. Include the Catch License file in your patch's files or repository.
 2. Add a note in your patch's description that it follows the Catch License. Example:
 
-	> This compatibility patch is licensed under the [Catch License 1.0.0 (CL-1.0.0)](https://github.com/catch-group/cl). Compatibility patches must comply with its terms.
+	> This compatibility patch is licensed under the [Catch License 1.0.0 (CL-1.0.0)](https://github.com/catch-group/cl/blob/1.0.0/cl.md). Compatibility patches must comply with its terms.
 
 ## Why Open Source?
 
@@ -135,4 +135,4 @@ This document is not legal advice. The Catch License is provided "as-is" without
 
 [![CC0 Public Domain Mark Badge](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This README, the Catch License text, and all files in this repository are licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+This README, the Catch License text, and all other files in this repository are licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
