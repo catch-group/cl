@@ -135,4 +135,4 @@ This document is not legal advice. The Catch License is provided "as-is" without
 
 [![CC0 Public Domain Mark Badge](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This README, the Catch License text, and all other files in this repository are licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+This text, the Catch License text, and all other files in this repository are licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
