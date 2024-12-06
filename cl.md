@@ -1,5 +1,7 @@
 # Catch License 1.0.0 (CL-1.0.0)
 
+Copyright © [YEAR] [COPYRIGHT HOLDER]
+
 By exercising the rights granted under this Catch License 1.0.0 ("License"), the "Patch Creator" agrees to the terms and conditions outlined below.
 
 ## 1. Definitions
@@ -10,7 +12,7 @@ A software modification or add-on created to enhance or alter the functionality 
 
 ### 1.2. "Author"
 
-The original creator(s) of a Mod to which this License applies.
+The creator(s) of a Mod to which this License applies.
 
 ### 1.3. "Compatibility Patch"
 
@@ -55,29 +57,28 @@ The Patch Creator's exercise of the Licensed Rights is subject to the following 
 The Patch Creator must provide clear and visible attribution to the Author of the Mod. Attribution must include:
 
 - The name of the Mod and its Author.
-- A link to the Mod's official distribution page (e.g., Nexus Mods page, GitHub repository).
+- A link to the Mod's distribution page this License is attached to.
 
 Attribution must appear in the description of the Compatibility Patch on distribution platforms and in any accompanying documentation.
 
 ### 4.2. Disclaimer
 
-If the Patch Creator is not affiliated with the Author, the following disclaimer must be included:
+If the Patch Creator is not affiliated with the Author, the following disclaimer must be displayed in the description of the Compatibility Patch on distribution platforms and in any accompanying documentation:
 
-> This compatibility patch is an independent creation and is not affiliated with, endorsed by, or officially supported by the original author(s) of the mods involved.
-
-This disclaimer must be displayed in the description of the Compatibility Patch on distribution platforms and in any accompanying documentation.
+> This compatibility patch is an independent creation and is not affiliated with, endorsed by, or officially supported by the author(s) of the mods involved.
 
 ### 4.3. Open Source Requirement
 
-Compatibility Patches must be distributed under this License or any other open-source license that:
+Compatibility Patches must be distributed under this License or any other license that:
 
-- **Maintains Attribution:** Requires attribution to the original Author as specified in Section 4.1.
+- **Maintains Attribution**: Requires attribution to the Patch Creator as outlined in Section 4.1, including the name of the Compatibility Patch, the Patch Creator, and a link to the Compatibility Patch's distribution page.
+- **Attribution Continuity:** Limits attribution requirements for Compatibility Patches based on this Compatibility Patch to the immediate predecessor. Patch Creators of these downstream Compatibility Patches must attribute only the immediate predecessor (Patch Creator) as outlined in Section 4.1 and are not required to include attribution for the Author of the Mod or any upstream contributors.
 - **Ensures Transparency:** Makes the source code of the Compatibility Patch publicly available.
-- **Is equally or less permissive:** Does not impose additional restrictions conflicting with the rights granted under this License.
+- **Is equally or more permissive:** Does not impose additional restrictions conflicting with the rights granted and conditions given under this License.
 
 ### 4.4. Asset Usage
 
-Use of original Mod Assets is permitted solely to the extent necessary to achieve compatibility between Mods.
+Use of Mod Assets is permitted solely to the extent necessary to achieve compatibility between Mods.
 
 The use of Assets is allowed for the following purposes:
 
@@ -98,8 +99,8 @@ The use of Assets is expressly prohibited where the Assets are utilized beyond t
 
 Compatibility Patches may not be monetized through paid downloads or revenue-sharing systems without explicit permission from the Author and compliance with the platform's policies. General donation links are permitted only if:
 
-- Donation links for the original Author are included and equally prominent, or
-- Explicit permission has been granted by the original Author for monetization under different or no conditions.
+- Donation links for the Author are included and equally prominent, or
+- Explicit permission has been granted by the Author for monetization under different or no conditions.
 
 Platform-specific rules on monetization may further restrict or permit certain activities. The Patch Creator must comply with both this License and the policies of the distribution platform.
 
