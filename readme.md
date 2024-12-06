@@ -19,7 +19,7 @@ The Catch License is built to foster collaboration while protecting the interest
 
 ### For Mod Authors
 
-It provides a structured way to permit compatibility patches while ensuring your work is respected.
+It provides a structured and simple way to permit compatibility patches while ensuring your work is respected.
 
 ### For Patch Creators
 
@@ -40,9 +40,9 @@ By licensing your mod under the Catch License, you make it clear that compatibil
 
 ### How to Apply the Catch License to Your Mod
 
-To license your mod under the Catch License, simply do one of the following or both:
+To license your mod under the Catch License, simply do one of the following or preferably both:
 
-- Include the Catch License file in your mod's files or repository.
+- Include the Catch License in your mod's files or repository and replace `[YEAR]` and `[COPYRIGHT HOLDER]` with your details.
 - Add a note in your mod's description (on platforms like Nexus Mods or GitHub) that it follows the Catch License. Example:
 
 	> This mod is licensed under the [Catch License 1.0.0 (CL-1.0.0)](https://github.com/catch-group/cl/blob/1.0.0/cl.md). Compatibility patches must comply with its terms.
@@ -76,8 +76,8 @@ If you're creating a compatibility patch for a mod licensed under the Catch Lice
 
 To license your patch under the Catch License, simply do one of the following or preferably both:
 
-1. Include the Catch License file in your patch's files or repository.
-2. Add a note in your patch's description that it follows the Catch License. Example:
+- Include the Catch License in your patch's files or repository and replace `[YEAR]` and `[COPYRIGHT HOLDER]` with your details.
+- Add a note in your patch's description that it follows the Catch License. Example:
 
 	> This compatibility patch is licensed under the [Catch License 1.0.0 (CL-1.0.0)](https://github.com/catch-group/cl/blob/1.0.0/cl.md). Compatibility patches must comply with its terms.
 
@@ -126,6 +126,15 @@ The Catch License only applies to compatibility patches. If the original mod's l
 ### Can I use assets from the original mod?
 
 Yes, but only as much as needed to achieve compatibility. Anything beyond that requires explicit permission.
+
+## Badges
+
+Display your commitment to the Catch License by adding a badge to your mod or patch description.
+
+|  | light mode | dark mode | any mode | dynamic |
+|---|---|---|---|---|
+|SVG|[![Catch License 1.0.0 Badge (white on black)](./images/cl-logo-white-on-black.svg)](./images/cl-logo-white-on-black.svg)|[![Catch License 1.0.0 Badge (black on white)](./images/cl-logo-black-on-white.svg)](./images/cl-logo-black-on-white.svg)|[![Catch License 1.0.0 Badge (white on pink)](./images/cl-logo-white-on-pink.svg)](./images/cl-logo-white-on-pink.svg)|[![Catch License 1.0.0 Badge (color-scheme-agnostic)](./images/cl-logo-color-scheme-agnostic.svg)](./images/cl-logo-color-scheme-agnostic.svg)|
+|PNG|[![Catch License 1.0.0 Badge (white on black)](./images/cl-logo-white-on-black.png)](./images/cl-logo-white-on-black.png)|[![Catch License 1.0.0 Badge (black on white)](./images/cl-logo-black-on-white.png)](./images/cl-logo-black-on-white.png)|[![Catch License 1.0.0 Badge (white on pink)](./images/cl-logo-white-on-pink.png)](./images/cl-logo-white-on-pink.png)||
 
 ## Disclaimer
 
