@@ -22,8 +22,8 @@ The complete Catch License text is available [here](./cl.md).
 
 ## Getting Started
 
-- **Mod Authors**: Learn how to apply the license and understand its benefits in [For Mod Authors](./docs/for_mod_authors.md).
-- **Patch Creators**: Review the guidelines and requirements for creating compatibility patches in [For Patch Creators](./docs/for_patch_creators.md).
+- **Mod Authors**: Learn how to apply the license and understand its benefits in [For Mod Authors](./docs/for-mod-authors.md).
+- **Patch Creators**: Review the guidelines and requirements for creating compatibility patches in [For Patch Creators](./docs/for-patch-creators.md).
 
 ## Badges
 
